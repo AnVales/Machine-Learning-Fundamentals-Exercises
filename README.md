@@ -1,2 +1,1 @@
-# Intro_to_Machine_Learning
-How Models Work. The first step if you're new to machine learning.
+Ejercicios prácticos en Python para aprender conceptos clave de machine learning: exploración de datos, construcción de modelos, validación, overfitting/underfitting y Random Forests.
